@@ -19,5 +19,5 @@ test {
 }
 application
         {
-            mainClass 'org.example.Main'
+            mainClass.set('org.example.Main')
         }
